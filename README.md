@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gouri</h1>
-<h3 align="center">A passionate and creative developer from India, with a strong intrest in Computer Vision,Deep Learning and Natural Language Processing</h3>
+<h3 align="center">A passionate and creative developer from India, with a strong interest in Computer Vision,Deep Learning and Natural Language Processing</h3>
 
 - 🔭 I’m currently working on **Computer Vision DL projects**
 
 - 👯 I’m addicted to **learning and growing every day**
 
-- 🤝 Ask me about **anything, I am happy to help;**
+- 🤝 Ask me about **anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
